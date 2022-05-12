@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+    <instance_id>ba5dc32a-5629-40ee-a6e2-ae26d3d13d37</instance_id>
+    <sh_client_id>6cc8c4ed-fd7f-458b-8d21-b5bf6d101079</sh_client_id>
+    <sh_client_secret>CJpf@}8UAj@|:m&amp;(3#LboT1HUjf}A+5%35s_Fn.s</sh_client_secret>
+	<save_dir>test_dir</save_dir>
+	<resolution unit="m">120</resolution>
+	<area_coords CoordSysStr="wgs84" position="longitude and latitude coordinates of lower left and upper right corners">46.16, -16.15, 46.51, -15.58</area_coords>
+	<begin_time>2019-06-01</begin_time>
+	<end_time>2019-06-30</end_time>
+	<DataCollection>SENTINEL2_L1C</DataCollection>
+	<DataType>TIFF</DataType>
+</root>
